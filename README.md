@@ -104,6 +104,23 @@ A role-based platform covering customer and worker experiences alongside adminis
 
 ---
 
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbuZar-Babar&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuZar-Babar&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbuZar-Babar&hide_border=true" height="170" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbuZar-Babar&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+---
+
 ## What I Build
 
 ```text
@@ -125,15 +142,6 @@ I care about **clean architecture, useful documentation, maintainable code, and 
 - Developing **MyBrain**, a persistent, AI-agnostic personal knowledge system
 - Improving system design, backend engineering, and applied AI skills
 - Turning university and personal projects into well-documented public work
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbuZar-Babar&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuZar-Babar&layout=compact&hide_border=true" height="165" alt="Top languages" />
-</p>
 
 ---
 
